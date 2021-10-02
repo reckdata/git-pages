@@ -1,6 +1,6 @@
 ## Images
 
-## Project Descriptiom
+## Project Description
 
 ## Installation instructions
 
